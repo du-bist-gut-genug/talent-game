@@ -2,8 +2,8 @@
 
 /* Polices hébergées localement (licence SIL Open Font License, voir licenses/) :
    aucune requête vers Google Fonts, donc pas de transfert d'adresse IP à un tiers. */
-@font-face { font-family: 'Bungee'; font-style: normal; font-weight: 400; font-display: swap; src: url('fonts/bungee-latin.woff2') format('woff2'); }
-@font-face { font-family: 'Outfit'; font-style: normal; font-weight: 400 900; font-display: swap; src: url('fonts/outfit-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Bungee'; font-style: normal; font-weight: 400; font-display: swap; src: url('bungee-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Outfit'; font-style: normal; font-weight: 400 900; font-display: swap; src: url('outfit-latin.woff2') format('woff2'); }
 :root {
   --bg: #0d0221;
   --bg2: #1a0640;
